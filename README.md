@@ -1,6 +1,9 @@
 ## Hey there, I'm Junior 👋 
 
-
+- 📚 Fullstack developer with love for Front-end and games development 🎮💻
+- 💻 Studying Systems analysis and development at Uninassau- RN, Brazil
+- 🏢 Systems Integrator at VectaX
+- 📩 Contact me: [juniorpereiraprof@gmail.com](mailto:juniorpereiraprof@gmail.com)
 <!--
 **Junpr7/Junpr7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
